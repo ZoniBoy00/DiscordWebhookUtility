@@ -30,7 +30,7 @@ This is a WPF application that provides a user-friendly interface for interactin
 ## Usage 💻
 
 ### How to use the EXE file:
-Once you've built the project or [downloaded](github.com/ZoniBoy00/DiscordWebhookUtility/releases/) the EXE file, follow these steps to run the application:
+Once you've built the project or [downloaded](https://github.com/ZoniBoy00/DiscordWebhookUtility/releases/latest) the EXE file, follow these steps to run the application:
 
 1. **Launch the EXE**: Double-click on the executable file to launch the application.
 2. **Webhook URL**: Enter the Discord webhook URL that you want to interact with. 🔗
