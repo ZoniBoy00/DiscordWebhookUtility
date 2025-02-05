@@ -62,3 +62,7 @@ If you would like to contribute to this project, feel free to fork it, make chan
 
 ## VirusTotal Scan 🛡️
 For security purposes, you can check the [VirusTotal scan report](https://www.virustotal.com/gui/file/36c6634df055fde07acc39e71d5978c89ace6f0e4b6b99af70f8ef7af2f10479/detection) of this project.
+
+## Buy Me A Coffee ☕
+[Donate](https://buymeacoffee.com/zoniboy00)
+
